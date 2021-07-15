@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.stars-block{display:flex;flex-direction:column;width:140px;height:160px;padding:22px}.stars{padding:0;display:flex;justify-content:space-between}.stars__star{width:16px;height:16px;list-style:none;background:url(star.040e0f1e.svg) no-repeat 50%}.stars--1 .stars__star:first-child,.stars--2 .stars__star:nth-child(-n+2),.stars--3 .stars__star:nth-child(-n+3),.stars--4 .stars__star:nth-child(-n+4),.stars--5 .stars__star{background:url(star-active.3d99ddfd.svg) no-repeat 50%}
+/*# sourceMappingURL=style.30fc16be.css.map */
